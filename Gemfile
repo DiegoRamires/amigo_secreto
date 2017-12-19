@@ -39,6 +39,7 @@ gem 'materialize-sass'
 gem 'material_icons'
 gem 'redis'
 gem 'sidekiq'
+gem 'pry'
 
 group :test do
   gem "factory_girl_rails"
